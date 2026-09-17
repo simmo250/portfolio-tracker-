@@ -1,0 +1,6 @@
+yfinance>=0.2.54
+pandas>=2.3.3
+numpy>=2.5.1
+SQLAlchemy>=2.0.41
+xlsxwriter>=3.2.3
+pymysql>=1.2.2

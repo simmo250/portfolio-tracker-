@@ -1,0 +1,25 @@
+﻿# Sensitive config - NEVER commit this
+config.py
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+
+# Output files (generated every run)
+output/
+*.db
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
